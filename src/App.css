@@ -1,0 +1,31 @@
+.main-div{
+  display: flex;
+}
+.content {
+  width: 100%;
+}
+.post-card{
+width: 300px;
+margin-top: 20px;
+margin-left: 10%;
+}
+.create-post{
+  width: 300px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.preview img {
+  width: 100px;
+  height: 100px;
+}
+.comment-input{
+  position: relative;
+}
+.comment-input textarea{
+  width: 100%;
+}
+.arrow-icon {
+  position: absolute;
+  top: 25%;
+  right: 2rem;
+}
